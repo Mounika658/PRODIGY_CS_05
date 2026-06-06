@@ -19,6 +19,7 @@ A Python-based Network Packet Analyzer designed to capture and analyze network t
 📚 Scapy Library
 🌐 Networking Concepts
 📄 Packet Analysis Techniques
+    tkinter
 
 🎯 Learning Outcomes
 
